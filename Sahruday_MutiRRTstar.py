@@ -1,5 +1,5 @@
 """
-Authors: Sahruday Patti
+Authors: Sahruday Patti Sandeep
 
 Brief : Implementation of Multi RRT* Alogoritm 
 
